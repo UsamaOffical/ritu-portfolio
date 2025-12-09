@@ -4,7 +4,7 @@ import { BsBehance } from "react-icons/bs";
 const projects = [
   {
     id: 1,
-    title: "Socail Media Post",
+    title: "Social Media Post",
     description: "Design all type of graphics for social media marketing.",
     image: "/projects/project-1.jpg",
     tags: ["Photoshop", "Adobe Illustrator"],
@@ -13,7 +13,36 @@ const projects = [
   },
   {
     id: 2,
-    title: "Nescafe Product design",
+    title: "Social Media ",
+    description:
+      "Socail media posts design for different brands and companies.",
+    image: "/projects/project-10.jpg",
+    tags: ["Photoshop", "Adobe Illustrator"],
+    demoUrl: "https://cara-by-usama.vercel.app/",
+    githubUrl: "https://github.com/UsamaOffical/HTML-CSS-projects/tree/main/cara",
+  },
+  {
+    id: 3,
+    title: "Flyer design",
+    description:
+      "Design flyer for all type of categories using Photoshop and Illustrator.",
+    image: "/projects/project-7.jpg",
+    tags: ["Photoshop", "Adobe Illustrator"],
+    demoUrl: "https://travel-agency-usama.vercel.app/",
+    githubUrl: "https://github.com/UsamaOffical/HTML-CSS-projects/tree/main/travel",
+  },
+  {
+    id: 4,
+    title: "Social Media Post",
+    description: "Design all type of graphics for social media marketing.",
+    image: "/projects/project-9.jpg",
+    tags: ["Photoshop", "Adobe Illustrator"],
+    demoUrl: "https://hackathon-e-commerce-4eep.vercel.app/",
+    githubUrl: "https://github.com/UsamaOffical/Hackathon-E-commerce",
+  },
+  {
+    id: 5,
+    title: "Nescafe Social design",
     description:
       "Socail media posts design for different brands and companies.",
     image: "/projects/project-2.jpg",
@@ -22,11 +51,11 @@ const projects = [
     githubUrl: "https://github.com/UsamaOffical/HTML-CSS-projects/tree/main/cara",
   },
   {
-    id: 3,
-    title: "Food Flyer design",
+    id: 6,
+    title: "Flyer design",
     description:
       "Design flyer for all type of categories using Photoshop and Illustrator.",
-    image: "/projects/project-4.jpg",
+    image: "/projects/project-11.jpg",
     tags: ["Photoshop", "Adobe Illustrator"],
     demoUrl: "https://travel-agency-usama.vercel.app/",
     githubUrl: "https://github.com/UsamaOffical/HTML-CSS-projects/tree/main/travel",
