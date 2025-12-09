@@ -75,7 +75,7 @@ export const ContactSection = () => {
                 <Instagram className="hover:text-primary transition-colors" />
               </a>
               <a
-      href="https://www.behance.net/Ritu44"
+      href="https://www.behance.net/monjurulislam36"
       target="_blank"
       rel="noopener noreferrer"
     >

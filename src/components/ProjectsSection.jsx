@@ -4,61 +4,61 @@ import { BsBehance } from "react-icons/bs";
 const projects = [
   {
     id: 1,
-    title: "Social Media Post",
+    title: "Banner Design",
     description: "Design all type of graphics for social media marketing.",
-    image: "/projects/project-1.jpg",
+    image: "/projects/banner-design.png",
     tags: ["Photoshop", "Adobe Illustrator"],
-    demoUrl: "https://hackathon-e-commerce-4eep.vercel.app/",
-    githubUrl: "https://github.com/UsamaOffical/Hackathon-E-commerce",
+    demoUrl: "https://www.behance.net/gallery/236558007/Banner-design",
+    githubUrl: "https://www.behance.net/monjurulislam36",
   },
   {
     id: 2,
-    title: "Social Media ",
+    title: "Travel Social Media ",
     description:
       "Socail media posts design for different brands and companies.",
     image: "/projects/project-10.jpg",
     tags: ["Photoshop", "Adobe Illustrator"],
-    demoUrl: "https://cara-by-usama.vercel.app/",
-    githubUrl: "https://github.com/UsamaOffical/HTML-CSS-projects/tree/main/cara",
+    demoUrl: "https://www.behance.net/gallery/234296953/Travel-Social-media-Post",
+    githubUrl: "https://www.behance.net/monjurulislam36",
   },
   {
     id: 3,
-    title: "Flyer design",
+    title: "Food Menu Design",
     description:
       "Design flyer for all type of categories using Photoshop and Illustrator.",
-    image: "/projects/project-7.jpg",
+    image: "/projects/food-menu.png",
     tags: ["Photoshop", "Adobe Illustrator"],
-    demoUrl: "https://travel-agency-usama.vercel.app/",
-    githubUrl: "https://github.com/UsamaOffical/HTML-CSS-projects/tree/main/travel",
+    demoUrl: "https://www.behance.net/gallery/235034587/Food-Manu-Design",
+    githubUrl: "https://www.behance.net/monjurulislam36",
   },
   {
     id: 4,
     title: "Social Media Post",
     description: "Design all type of graphics for social media marketing.",
-    image: "/projects/project-9.jpg",
+    image: "/projects/social-media.png",
     tags: ["Photoshop", "Adobe Illustrator"],
-    demoUrl: "https://hackathon-e-commerce-4eep.vercel.app/",
-    githubUrl: "https://github.com/UsamaOffical/Hackathon-E-commerce",
+    demoUrl: "https://www.behance.net/gallery/234214043/Social-Media-Post/modules/1344905647",
+    githubUrl: "https://www.behance.net/monjurulislam36",
   },
   {
     id: 5,
-    title: "Nescafe Social design",
+    title: "Travel Agency Post",
     description:
       "Socail media posts design for different brands and companies.",
-    image: "/projects/project-2.jpg",
+    image: "/projects/travel-social-media.png",
     tags: ["Photoshop", "Adobe Illustrator"],
-    demoUrl: "https://cara-by-usama.vercel.app/",
-    githubUrl: "https://github.com/UsamaOffical/HTML-CSS-projects/tree/main/cara",
+    demoUrl: "https://www.behance.net/gallery/234296471/Travel-Social-media-Post-Design",
+    githubUrl: "https://www.behance.net/monjurulislam36",
   },
   {
     id: 6,
-    title: "Flyer design",
+    title: "Product Manipulation Design",
     description:
       "Design flyer for all type of categories using Photoshop and Illustrator.",
-    image: "/projects/project-11.jpg",
+    image: "/projects/product-mainuplate.png",
     tags: ["Photoshop", "Adobe Illustrator"],
-    demoUrl: "https://travel-agency-usama.vercel.app/",
-    githubUrl: "https://github.com/UsamaOffical/HTML-CSS-projects/tree/main/travel",
+    demoUrl: "https://www.behance.net/gallery/234687195/Product-Manipulation-design",
+    githubUrl: "https://www.behance.net/monjurulislam36",
   },
 ];
 
@@ -114,13 +114,13 @@ export const ProjectsSection = () => {
                     >
                       <ExternalLink size={20} />
                     </a>
-                    <a
+                    {/* <a
                       href={project.githubUrl}
                       target="_blank"
                       className="text-foreground/80 hover:text-primary transition-colors duration-300"
                     >
                       <BsBehance size={20}/>
-                    </a>
+                    </a> */}
                   </div>
                 </div>
               </div>
@@ -132,7 +132,7 @@ export const ProjectsSection = () => {
           <a
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href="https://www.behance.net/Ritu44"
+            href="https://www.behance.net/monjurulislam36"
           >
             Check My Behance <ArrowRight size={16} />
           </a>
