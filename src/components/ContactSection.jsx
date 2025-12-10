@@ -58,7 +58,7 @@ export const ContactSection = () => {
   <div className="flex items-center justify-center gap-6">
     <MapPin className="h-5 w-5 text-primary" />
     <h4 className="font-medium">Location:</h4>
-    <p className="text-muted-foreground">Comilla, Bangladesh</p>
+    <p className="text-muted-foreground">Chittagong, Bangladesh</p>
   </div>
 
 </div>
