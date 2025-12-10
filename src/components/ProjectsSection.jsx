@@ -170,13 +170,23 @@ const projects = [
   },
   {
     id: 18,
-    title: "Poster Design",
+    title: "Food Poster Design",
     description: "Design all type of posters for various platforms and purposes.",
-    image: "/projects/project-2.jpg",
+    image: "/projects/project-8.jpg",
     tags: ["Photoshop", "Adobe Illustrator"],
     demoUrl: "https://www.behance.net/gallery/235262867/YouTube-Thumbnail-Design",
     githubUrl: "https://www.behance.net/monjurulislam36",
   },
+  {
+    id: 19,
+    title: "Food Poster Design ",
+    description: "Design all type of posters for various platforms and purposes.",
+    image: "/projects/project-4.jpg",
+    tags: ["Photoshop", "Adobe Illustrator"],
+    demoUrl: "https://www.behance.net/gallery/234215317/Social-Midea-Post-Design",
+    githubUrl: "https://www.behance.net/monjurulislam36",
+  },
+ 
   
   
 ];
