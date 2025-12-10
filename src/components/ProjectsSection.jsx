@@ -186,6 +186,15 @@ const projects = [
     demoUrl: "https://www.behance.net/gallery/234215317/Social-Midea-Post-Design",
     githubUrl: "https://www.behance.net/monjurulislam36",
   },
+  {
+    id: 20,
+    title: "Food Poster Design ",
+    description: "Design all type of posters for various platforms and purposes.",
+    image: "/projects/project-7.jpg",
+    tags: ["Photoshop", "Adobe Illustrator"],
+    demoUrl: "https://www.behance.net/gallery/234215317/Social-Midea-Post-Design",
+    githubUrl: "https://www.behance.net/monjurulislam36",
+  },
  
   
   
